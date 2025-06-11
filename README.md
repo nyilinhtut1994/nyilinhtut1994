@@ -1,5 +1,5 @@
 <div align="left">
-  <img height="200" src="https://i.imgur.com/y94Zv1V.png" />
+  <img height="200" src="https://github.com/nyilinhtut1994/nyilinhtut1994/raw/main/nyilin.png" alt="Nyi Lin Htut" />
 </div>
 
 ###
