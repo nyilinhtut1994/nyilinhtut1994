@@ -83,3 +83,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42F5E9&width=435&lines=Hello+I'm+Nyi+Lin+Htut;DevOps+%26+Cloud+Engineer;Lover+of+automation+%F0%9F%9A%80;Always+learning+new+tech!+" alt="Typing SVG" />
 </p>
 
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nyilinhtut1994&show_icons=true&theme=github_dark" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyilinhtut1994&layout=compact&theme=github_dark" height="180"/>
+</div>
+
+
