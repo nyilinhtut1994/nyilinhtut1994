@@ -75,3 +75,10 @@
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=nyilinhtut1994&theme=solarized-dark" alt="Layout with last medium posts" />
 </div>
+
+###
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=42F5E9&width=435&lines=Hello+I'm+Nyi+Lin+Htut;DevOps+%26+Cloud+Engineer;Lover+of+automation+%F0%9F%9A%80;Always+learning+new+tech!+" alt="Typing SVG" />
+</p>
+
