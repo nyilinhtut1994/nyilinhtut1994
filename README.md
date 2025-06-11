@@ -67,7 +67,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nyilinhtut1994/nyilinhtut1994/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/nyilinhtut1994/nyilinhtut1994/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ###
