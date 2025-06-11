@@ -66,14 +66,12 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/nyilinhtut1994 /nyilinhtut1994 /output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github.com/nyilinhtut1994/nyilinhtut1994/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=nyilinhtut1994&theme=solarized-dark" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=nyilinhtut1994&theme=solarized-dark" alt="Layout with last medium posts" />
 </div>
-
-###
