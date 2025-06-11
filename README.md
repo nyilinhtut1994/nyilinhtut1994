@@ -66,9 +66,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/nyilinhtut1994/nyilinhtut1994/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nyilinhtut1994&theme=dark&hide_border=true"/>
+</p>
+
 
 ###
 
